@@ -1,0 +1,7 @@
+//Compilable by javac, but noncompilable by eclipse
+
+//////////////////////////////////////////
+//Some header
+//////////////////////////////////////////
+public class InputCustomImportOrderDefaultPackage {
+}
